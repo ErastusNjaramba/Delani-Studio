@@ -40,3 +40,9 @@ h1{
 .about{
   text-align: center;
 }
+.services{
+  position: inherit;
+  margin-top: -19%;
+  text-align: center;
+  color: #fff;
+}
