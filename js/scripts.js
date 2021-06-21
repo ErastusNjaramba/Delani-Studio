@@ -16,7 +16,7 @@ $(document).ready(function() {
         $('.des2').hide()
         $('.development').show();
   })
-  
+
     $('.product').click(function (){
       $('.product').hide();
       $('.des3').show();
@@ -25,4 +25,20 @@ $(document).ready(function() {
         $('.des3').hide()
         $('.product').show();
     })
+    $('#submit').click(function(){
+      const divs  = $('.form-control');
+      divs.forEach(element => {
+          console.log(element)
+      });
   })
+});
+
+function getName(inp){
+  let value = inp.value;
+
+  if(inp == ""){
+      alert('please enter name')
+  }else{
+      return value
+  }
+}
