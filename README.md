@@ -20,7 +20,7 @@ No known bugs yet
 [Github](https://erastusnjaramba.github.io/Delani-Studio/) 
 
 ## Support and contact details
-If you want to contact me, email me on erastus11njaramba@gmail.com
+If you want to contact me, email me on erastus11njaramba@gmail.com.
 ### License
 [MIT Licence](Licence)
 Copyright (c) 2021 Erastus Njaramba
