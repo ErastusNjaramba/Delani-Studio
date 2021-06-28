@@ -12,10 +12,12 @@ $ git clone https://github.com/ErastusNjaramba/Delani-Studio.git
 * Open the project on live server
 ## Known Bugs
 No known bugs yet
+
 ## Technologies Used
 * HTML
 * CSS
 * JAVASCRIPT
+
 ## Link to live site on github pages
 [Github](https://erastusnjaramba.github.io/Delani-Studio/) 
 
